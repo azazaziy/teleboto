@@ -1,5 +1,2 @@
 telebot
-config
-random
 pyowm
-time
